@@ -1,6 +1,6 @@
-# Comment Backend
+# Thread Backend
 
-This is the backend server for the comment system.
+This is the backend server for the thread system.
 
 ## Prerequisites
 
